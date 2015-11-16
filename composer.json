@@ -22,6 +22,6 @@
         "ext-json": "*"
     },
     "autoload": {
-      "classmap": ["lib/Maksekeskus/"]
+      "classmap": ["lib/Maksekeskus.php"]
     }
 }
